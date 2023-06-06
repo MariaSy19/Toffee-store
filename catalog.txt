@@ -1,0 +1,8 @@
+toffee sweet,Toffee,is a chocolate with milk,standard,75.0,50,20.0
+Vegan Toffee,Toffee,Dairy-free toffee made with coconut milk,Vegan,750.0,10,0.0
+Nutty Toffee,Toffee,Crunchy toffee with mixed nuts,Standard,120.0,57,0.0
+Sea Salt Caramel Toffee,Toffee,Toffee with a touch of sea salt and gooey caramel,premium,500,44,10.0
+Espresso Toffee, Toffee,Toffee infused with espresso flavor,premium,600,70,12.5
+
+
+

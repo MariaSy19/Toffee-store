@@ -1,0 +1,3 @@
+youssef , eissay240@gmail.com , 87965 , cairo , 87879564123 , 450.0 , 784512
+maria , maryamhmdbsam@gmail.com , 123456 , syria , 123654 , 12365.0 , 12345
+mohamed , mohamed.mahmoud14532@gmail.com , 1258 , giza , 6464 , 470.0 , 32131
